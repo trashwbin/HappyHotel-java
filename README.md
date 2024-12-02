@@ -1,14 +1,10 @@
-# 🦄爪哇后端Level1考核
-
-[TOC]
-
-## 🏨HappyHotel_JAVA语言项目💯
+# 🏨HappyHotel_JAVA语言项目💯
 
 **[HappyHotel-java](https://github.com/aaaaabin/HappyHotel-java)**
 
 ### 🍬项目介绍
 
-继**([New-Dawn-Hotel_C晨曦酒店](https://github.com/aaaaabin/New-Dawn-Hotel_C/tree/main))**的更新，java版本
+继 **([New-Dawn-Hotel_C晨曦酒店](https://github.com/aaaaabin/New-Dawn-Hotel_C/tree/main))** 的更新，java版本
 
 实现数据的**持久化**以及其他基础功能，程序关闭之后，用户、预约等的信息不会消失，而是被保存到磁盘中，下次运行程序时可以被重新加载。
 
@@ -100,8 +96,6 @@
 
 #### 5.总结
 
-以我目前的水平，我也只能做到这了，C++打完蓝桥杯，用一星期多学JAVA学到老师讲的地方，再学习IO流处理文件，再用3天写出这个程序，我觉得，这就很美。
-
 ![9.png](https://github.com/aaaaabin/HappyHotel-java/blob/main/image/7.png?raw=true)
 
 
@@ -112,6 +106,5 @@ ok，以上就是该程序的部分功能，**感谢观看！详情请下载后�
 
 ### 🚀LAST
 
-这个程序吧，在代码层面多了很多注释，本篇README都没有注释来的详细，再写**Markdown**也没有从前那份对新事物的预约，那种第一次接触Markdown的愉悦。写的不好，望见谅🙏🏻🙏🏻🙏🏻🙏🏻。
+Java入门
 
-# Hello Word！
